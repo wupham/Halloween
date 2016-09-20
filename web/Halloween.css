@@ -1,10 +1,45 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
+body{
+    font-family: "Verdana", sans-serif;
+}
+.title {
+    color: orange;
+    text-shadow: 2px 2px #000000;
+    font-style: italic;
+}
+h2.welcome::first-letter{
+    font-size: 200%;
+}
+h2.categories {
+    font-size: 120%;
+}
+h2.guarantee {
+    font-size: 110%;
+}
+.pumpkin{
+    float:left;
+    margin-right: 20px;
+}
+a:link,
+a:visited {
+    color:orange;
+    font-weight: bold;
+    
+}
+/*a:visited{
+    color: orange;
+    font-weight: bold;
+}
 */
-/* 
-    Created on : Sep 16, 2016, 11:17:06 AM
-    Author     : Wesley
-*/
+a:hover {
+    color:green;
+    font-weight: bold;
+}
+footer {
+    font-size: 75%;
+    text-align: center;
+}
+
+
+
+
 
