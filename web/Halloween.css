@@ -70,7 +70,7 @@ a:hover {
 footer {
     font-size: 75%;
     text-align: center;
-    padding: 0 0 0 0;
+    padding: 12px 0 12px 0;
     background: orange;
     background: -webkit-linear-gradient(45deg, black, orange, white);
     background: -o-linear-gradient(45deg, black, orange, white);
