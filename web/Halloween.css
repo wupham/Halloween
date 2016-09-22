@@ -6,9 +6,7 @@ body{
     font-family: "Verdana", sans-serif;
 }
 .title {
-    color: orange;
-    text-shadow: 2px 2px #000000;
-    font-style: italic;
+    color: black;
     margin: 0;
     padding: 0;
 }
@@ -51,6 +49,8 @@ h2.guarantee {
 .pumpkin{
     float:left;
     margin-right: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
 }
 a:link,
 a:visited {
