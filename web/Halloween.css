@@ -37,8 +37,13 @@ body{
 .nav{
     width: 160px;
     float: left;
-    height: 550px;
+    height: 570px;
 }
+
+li{
+    padding: 5px;
+}
+
 .paragraphs{
     width: 640px;
     padding: 0 10px 0 10px;
