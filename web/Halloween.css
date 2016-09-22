@@ -34,7 +34,13 @@ body{
     border-color: black;
     padding: 0 0 0 0;
 }
-main{
+.nav{
+    width: 160px;
+    float: left;
+    height: 550px;
+}
+.paragraphs{
+    width: 640px;
     padding: 0 10px 0 10px;
 }
 h2.welcome::first-letter{
