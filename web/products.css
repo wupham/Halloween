@@ -88,9 +88,6 @@ body{
     width: 640px;
     padding: 0 10px 0 10px;
 }
-h2.welcome::first-letter{
-    font-size: 200%;
-}
 h2.categories {
     font-size: 120%;
 }
@@ -107,6 +104,9 @@ h2.guarantee {
 #catlink{
     color:orange;
 }
+img{
+    float:right;
+}
 footer {
     font-size: 75%;
     text-align: center;
@@ -117,8 +117,4 @@ footer {
     background: -moz-linear-gradient(45deg, black, orange, white);
     background: linear-gradient(45deg, black, orange, white);
 }
-
-
-
-
 
